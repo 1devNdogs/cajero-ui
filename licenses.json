@@ -1,0 +1,16 @@
+{
+  "scanner": {
+    "manatee": {
+      "license": {
+        "qr": {
+          "name": "Lamassu.Linux.QR.UDL",
+          "key": "8A72E73C67E46A16EB96949FCA44FF6244E8BB69759A76E891A47335CB4EAEFF"
+        },
+        "pdf417": {
+          "name": "Lamassu.Linux.PDF.UDL",
+          "key": "19E02E6167A95150169046E6C05FAF6BECA3407933F299B2E3F3286DACCAFF0A"
+        }
+      }
+    }
+  }
+}
